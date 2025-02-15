@@ -1,4 +1,7 @@
-![logo](https://github.com/SaketShri21/SaketShri21/blob/main/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif)
+<div align="center">
+  <img src="https://github.com/SaketShri21/SaketShri21/blob/main/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif" alt="GitHub Banner" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Saket Shrivastwa</h1>
 <h3 align="center">Commitment fuels growth</h3>
 
