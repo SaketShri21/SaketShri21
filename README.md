@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/SaketShri21/SaketShri21/blob/main/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" />
+  <img src="https://github.com/SaketShri21/SaketShri21/blob/main/68747470733a2f2f7334313636302e7063646e2e636f2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f39302d61727469636c652d62616e6e65722d322e676966.gif" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Saket Shrivastwa</h1>
