@@ -2,7 +2,11 @@
   <img src="https://github.com/SaketShri21/SaketShri21/blob/main/68747470733a2f2f7334313636302e7063646e2e636f2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f39302d61727469636c652d62616e6e65722d322e676966.gif" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Saket Shrivastwa</h1>
+<div align='center'>
+  
+__<h1 align="center">Hi ![waving-hand-joypixels (2)](https://github.com/Manju1392k/Manju1392k/assets/66934377/3676734b-c403-47a7-93c9-d10c58cb1d64) , I'm Saket Shrivastwa</h1>__
+
+</div>
 <h3 align="center">Commitment fuels growth</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saketshri21&label=Profile%20views&color=0e75b6&style=flat" alt="saketshri21" /> </p>
